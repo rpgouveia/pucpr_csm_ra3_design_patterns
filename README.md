@@ -1,0 +1,1 @@
+# pucpr_csm_ra3_design_patterns
