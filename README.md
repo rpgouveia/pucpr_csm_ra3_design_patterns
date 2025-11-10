@@ -132,6 +132,3 @@ java decorator.funcionario.Teste
 
 Definir conforme decisão do grupo (ex.: MIT). Até lá, considerar **uso acadêmico**.
 
----
-
-Se precisar, posso gerar uma **versão em PDF** deste README, um **script de build** (`Makefile` ou `maven/gradle`) e um **roteiro de apresentação** alinhado ao que o enunciado pede.
