@@ -125,10 +125,3 @@ java decorator.funcionario.Teste
 
   * **Programador**, **Implantador**, **TreinamentoDeUsuario**
 * Captura de referência: `doc/diagrama-de-classes.png`
-
----
-
-## 📄 Licença
-
-Definir conforme decisão do grupo (ex.: MIT). Até lá, considerar **uso acadêmico**.
-
