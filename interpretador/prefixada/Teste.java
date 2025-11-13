@@ -7,22 +7,31 @@ public class Teste
     public static void execute()
     {
         ArrayList<Expressao> programa = new ArrayList<Expressao>();
+        ArrayList<Expressao> lfat     = new ArrayList<Expressao>();
         ArrayList<Expressao> la       = new ArrayList<Expressao>();
         ArrayList<Expressao> ls       = new ArrayList<Expressao>();
         ArrayList<Expressao> ld       = new ArrayList<Expressao>();
         ArrayList<Expressao> lm       = new ArrayList<Expressao>();
 
-        Expressao c1 = new Constante(20.0); 
+        Expressao n = new Constante(10.0);
+        programa.add(n);
+
+        Expressao c1 = new Constante(20.0);
         programa.add(c1);
-        
-        Expressao c2 = new Constante(40.0); 
+
+        Expressao c2 = new Constante(40.0);
         programa.add(c2);
-        
-        Expressao v1 = new Variavel("v1", 10); 
+
+        Expressao v1 = new Variavel("v1", 10);
         programa.add(v1);
-        
-        Expressao v2 = new Variavel("v2", 100); 
+
+        Expressao v2 = new Variavel("v2", 100);
         programa.add(v2);
+
+        lfat.add(n);
+        Expressao fat = new Fatorial(lfat);
+        programa.add(fat);
+        // lfat = ( n ) ;   fat = (! n)
         
         la.add(c1); 
         la.add(v1);
