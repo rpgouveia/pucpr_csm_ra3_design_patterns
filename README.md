@@ -4,10 +4,10 @@ Este repositório reúne a implementação e o material de apoio do **Trabalho 3
 
 > **Autores**
 >
-> * Angelo Piovezan Jorgeto
-> * Fernando Alonso P. da Silva
+> * **Angelo Piovezan Jorgeto**
+> * **Fernando Alonso P. da Silva**
 > * **Jafte Carneiro F. da Silva**
-> * Renato P. Gouveia
+> * **Renato P. Gouveia**
 
 ---
 
